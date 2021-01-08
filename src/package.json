@@ -13,6 +13,6 @@
     "start": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rasuljon Kurbanov",
   "license": "ISC"
 }
